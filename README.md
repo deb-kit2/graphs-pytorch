@@ -1,6 +1,6 @@
 # graphs-pytorch
 An implementation of basic graph layers in pytorch.
-Read the blog [here](deb-kit2.github.io/blog/graphs).
+Read the blog [here](https://deb-kit2.github.io/blog/graphs).
 
 ### `vanillaGCN.py`
 A simplified Graph Convolutional Layer.
