@@ -1,5 +1,6 @@
 # graphs-pytorch
 An implementation of basic graph layers in pytorch.
+Read the blog [here](deb-kit2.github.io/blog/graphs).
 
 ### `vanillaGCN.py`
 A simplified Graph Convolutional Layer.
@@ -10,7 +11,6 @@ The Graph Convolutional Layer, as in the paper [Semi-Supervised Classification w
 ### `multiHeadGraphAttention.py`
 A working and easy to understand implementation of multi-headed Graph Attention Layer. 
 
-#### deb-kit2.github.io/blog/graphs
 
 #### Todo :
 
