@@ -11,3 +11,6 @@ The Graph Convolutional Layer, as in the paper [Semi-Supervised Classification w
 A working and easy to understand implementation of multi-headed Graph Attention Layer. 
 
 #### deb-kit2.github.io/blog/graphs
+
+Todo :
+[ ] Need to write tests for paperGCN and multiHeadedGraphAtt
