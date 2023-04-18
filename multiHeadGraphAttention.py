@@ -100,3 +100,6 @@ def main() :
         print(attentions.permute(0, 3, 1, 2))
 
         # need to calculate by hand and make equality checks
+
+if __name__ == "__main__" :
+    main()
